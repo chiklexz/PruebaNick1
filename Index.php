@@ -1,7 +1,7 @@
 ﻿<html lang="es">
 <head>
 <meta charset="utf-8">
-<title>Escuela</title>
+<title>Escuela   </title>
  
 <link rel="stylesheet" href="style.css">
 
@@ -53,7 +53,8 @@
 		</article> 
 	
 	</section> 	
-	
+	
+
  
 	
 </body>
